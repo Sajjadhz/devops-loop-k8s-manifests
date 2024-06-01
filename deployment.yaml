@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: fastapi-app
-        image: docker.io/sajjadhz/fastapi-app:28
+        image: docker.io/sajjadhz/fastapi-app:29
         ports:
         - containerPort: 80
